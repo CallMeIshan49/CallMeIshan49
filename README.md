@@ -46,6 +46,19 @@ I enjoy turning ideas into real applications and continuously learning new techn
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CallMeIshan49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeIshan49&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CallMeIshan49&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
